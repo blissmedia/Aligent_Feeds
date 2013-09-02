@@ -1,0 +1,13 @@
+{
+    "name":"aligent/feeds",
+    "type":"magento-module",
+    "homepage":"https://github.com/blissmedia/Aligent_Feeds",
+    "authors":[
+        {
+            "name":"Aligent"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
